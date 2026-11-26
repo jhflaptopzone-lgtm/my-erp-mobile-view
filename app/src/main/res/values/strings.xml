@@ -1,3 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">JHF Laptop Zone</string>
+    <string name="app_tagline">Laptop Sales, Inventory &amp; EMI ERP</string>
+    <string name="default_server_url" translatable="false">https://jhflaptop.cloud.run</string>
 </resources>
